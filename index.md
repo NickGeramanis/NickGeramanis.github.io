@@ -8,7 +8,7 @@ My name is Nick Geramanis and I am a Software Engineer @ [Agile Actors](https://
 - [**Reinforcement Learning Algorithms**](https://nickgeramanis.github.io/rl-algorithms)
 - [**Denoising & Inpainting using Loopy Belief Propagation**](https://nickgeramanis.github.io/denoising-inpainting-lbp)
 - [**Message in a Bubble**](https://nickgeramanis.github.io/message-in-a-bubble)
-- [**Reinforcement Learning for Autonomous Unmmaned Aerial Vehicles - Undergraduate Thesis**](https://nickgeramanis.github.io/undergrad-thesis-rl-uav/)
+- [**Reinforcement Learning for Autonomous Unmmaned Aerial Vehicles - Undergraduate Thesis**](https://nickgeramanis.github.io/rl-uav)
 
 ## Contact
 - :link: https://www.linkedin.com/in/nikolaos-geramanis
